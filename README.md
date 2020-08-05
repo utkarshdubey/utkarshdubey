@@ -2,7 +2,8 @@
 
 ### I'm a Student, Developer, Maker, and Espresso enthusiast.
 - 🛠  I'm currently building [PrivacyBear](https://github.com/privacybear)
-- 💡  I'm currently learning literally anything.
+- 💡  I'm currently interested in Typescript/Javascript.
+- 🤠 My daily procastination includes learning Rust and having fewer dumb errors.
 - 🎓 I'm currently studying **Physics, Chemistry, and Mathematics** with other additional subjects at my school.
 
 ### Connect with me:

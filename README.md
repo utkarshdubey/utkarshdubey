@@ -1,8 +1,5 @@
 ## Hey, I'm Utkarsh (the internet also knows me as KaNeKi).
 
-<center>
-  <img alt="UTK" src="https://raw.githubusercontent.com/utkarshdubey/utkarshdubey/master/UTK-min.jpg" height="500" width="500"/>
-</center>
 
 ---
 ### I'm a Student, Developer, Maker, and Espresso enthusiast.

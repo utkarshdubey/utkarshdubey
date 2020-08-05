@@ -1,6 +1,6 @@
 ## Hey, I'm Utkarsh (the internet also knows me as KaNeKi).
 
-<img align="center" alt="UTK" src="https://raw.githubusercontent.com/utkarshdubey/utkarshdubey/master/UTK-min.PNG" />
+<img align="center" alt="UTK" src="https://raw.githubusercontent.com/utkarshdubey/utkarshdubey/master/UTK-min.PNG" style="height: 500px; width: 500px;" />
 
 ### I'm a Student, Developer, Maker, and Espresso enthusiast.
 - 🛠  I'm currently building [PrivacyBear](https://github.com/privacybear)

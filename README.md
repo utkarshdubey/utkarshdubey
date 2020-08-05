@@ -38,9 +38,6 @@
 ---
 <img align="left" alt="Utkarsh Dubey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=utkarshdubey&show_icons=true&hide_border=true">
 
-### My top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshdubey">
-
 
 [website]: https://utkarsh.co
 [twitter]: https://twitter.com/utkarsh3jan

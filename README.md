@@ -3,7 +3,7 @@
 
 ---
 ### I'm a Student, Developer, Maker, and Espresso enthusiast.
-- 🛠  I'm currently learning ThreeJS and trying animations using ``react-spring``.
+- 🛠  I'm currently working on something called ``inventive``.
 - 😳 I'm currently interested in Typescript/Javascript.
 - 🤠 My daily procastination includes learning Rust and having fewer dumb errors.
 - 🎓 I'm currently studying **Physics, Chemistry, and Mathematics** with other additional subjects at my school.

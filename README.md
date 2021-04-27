@@ -8,6 +8,10 @@
 - 🤠 My daily procastination includes learning Rust and having fewer dumb errors.
 - 🎓 I'm currently studying **Physics, Chemistry, and Mathematics** with other additional subjects at my school.
 
+### Spotify
+<img src="https://now-play.vercel.app/api/generate?uid=14af18ff-6b54-4ccf-9016-712477a53e8f&theme=dark" />
+
+
 ### Connect with me:
 [<img align="left" alt="utkarsh.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Utkarsh Dubey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

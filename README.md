@@ -2,21 +2,14 @@
 
 
 ---
-### I'm a Student, Developer, Maker, and Espresso enthusiast.
-- 🛠  I'm currently working on something called ``inventive``.
-- 😳 I'm currently interested in Typescript/Javascript.
-- 🤠 My daily procastination includes learning Rust and having fewer dumb errors.
-- 🎓 I'm currently studying **Physics, Chemistry, and Mathematics** with other additional subjects at my school.
+### I'm a student, developer, and "somewhat" designer
+- I'm usually writing Javascript and Python
+- But also trying to learn more on the systems part of things (Rust, C)
+- I like modular clean designs
+- I'm currently a high school senior and an incoming freshman at Georgia State University
 
 ### Spotify
 <img src="https://now-play.vercel.app/api/generate?uid=14af18ff-6b54-4ccf-9016-712477a53e8f&theme=dark" />
-
-
-### Connect with me:
-[<img align="left" alt="utkarsh.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Utkarsh Dubey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Utkarsh Dubey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools:

@@ -6,7 +6,7 @@
 - I'm usually writing Javascript and Python
 - But also trying to learn more on the systems part of things (Rust, C)
 - I like modular clean designs
-- I'm currently a high school senior and an incoming freshman at Georgia State University
+- I'm currently a freshman at Georgia State University
 
 ### Spotify
 <img src="https://now-play.vercel.app/api/generate?uid=14af18ff-6b54-4ccf-9016-712477a53e8f&theme=dark" />
